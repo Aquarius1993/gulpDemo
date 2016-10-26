@@ -1,3 +1,4 @@
+安装依赖包：npm install
 watch: gulp serve
 dev: cross-env gulp build
 build: cross-env NODE_ENV=production gulp build
