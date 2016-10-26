@@ -1,0 +1,3 @@
+watch: gulp serve
+dev: cross-env gulp build
+build: cross-env NODE_ENV=production gulp build

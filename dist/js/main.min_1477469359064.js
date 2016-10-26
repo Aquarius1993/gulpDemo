@@ -1,1 +1,0 @@
-"use strict";console.log("index");var a=3;console.log(a),console.log("pro");
